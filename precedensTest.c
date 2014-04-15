@@ -1,5 +1,4 @@
 #include<stdio.h>
-dd
 int fun(int *k)
 {
 	*k += 4;
